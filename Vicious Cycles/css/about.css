@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Vicious Cycles</title>
+ <style>*{margin:auto; padding:auto}
+ body {
+   width: 70%;
+   margin="0 auto";
+   text-emphasis: georgia;
+   background-color: limegreen;
+   font-weight: bold;
+
+ }
+ h1 {
+   text-align: center;
+   font-weight: bold;
+   font-size: 3rem;
+ }
+ h2 {
+   text-align: center;
+   font-weight: bold;
+   font-size: 1rem;
+ }
+ .box {
+   border: 1px solid black;
+ }
+</style>
+</head>
+<body>
+    <img class="logo" src="images/Vicious-Cycle-Logo(1).png">
+</body>
+</html>

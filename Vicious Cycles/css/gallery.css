@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Vicious Cycles</title>
+ <style>*{margin:auto; padding:auto}
+ body {
+   width: 70%;
+   margin="0 auto";
+   text-emphasis: georgia;
+   background-color: yellow;
+ }
+
+ h1 {
+   text-align: center;
+   font-weight: bold;
+   font-size: 3rem;
+ }
+ h2 {
+   text-align: center;
+   font-weight: bold;
+   font-size: 2rem;
+   padding-bottom: 20px;
+ }
+ .green {
+   width: 15%;
+   margin-left: auto;
+   margin-right: auto;
+   padding-right: 50px;
+   padding-bottom: 50px;
+ }
+
+ .yellow {
+   width: 20%;
+   margin-left: auto;
+   margin-right: auto;
+   padding-right: 50px;
+   padding-bottom: 50px;
+ }
+ .green2 {
+   width: 20%;
+   margin-left: auto;
+   margin-right: auto;
+   padding-right: 50px;
+   padding-bottom: 50px;
+ }
+ .race {
+   width: 22%;
+   margin-left: auto;
+   margin-right: auto;
+   padding-right: 50px;
+   padding-bottom: 25px;
+ }
+ .hold {
+   width: 20%;
+   margin-left: auto;
+   margin-right: auto;
+   padding-right: 50px;
+   padding-bottom: 50px;
+ }
+
+ .group {
+   width: 20%;
+   margin-left: auto;
+   margin-right: auto;
+   padding-right: 50px;
+   padding-bottom: 50px;
+ }
+ .beach {
+   width: 25%;
+   margin-left: auto;
+   margin-right: auto;
+   padding-right: 50px;
+   padding-bottom: 50px;
+ }
+ .resting {
+   width: 17%;
+   margin-left: auto;
+   margin-right: auto;
+   padding-right: 50px;
+   padding-bottom: 50px;
+ }
+ .mount {
+   width: 25%;
+   margin-left: auto;
+   margin-right: auto;
+   padding-right: 50px;
+   padding-bottom: 50px;
+ }
+ .ride {
+   width: 25%;
+   margin-left: auto;
+   margin-right: auto;
+   padding-right: 50px;
+   padding-bottom: 45px;
+ }
+ .ride2 {
+   width: 25%;
+   margin-left: auto;
+   margin-right: auto;
+   padding-right: 50px;
+   padding-bottom: 45px;
+ }
+ .sunset {
+   width: 25%;
+   margin-left: auto;
+   margin-right: auto;
+   padding-right: 50px;
+ }
+
+ .trike {
+   width: 15%;
+   margin-left: auto;
+   margin-right: auto;
+   padding-right: 50px;
+  
+ }
+
+ .grocery {
+  width: 15%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: 50px;
+ }
+</style>
+</head>
+<body>
+    <img class="logo" src="images/Vicious-Cycle-Logo(1).png">
+</body>
+</html>
